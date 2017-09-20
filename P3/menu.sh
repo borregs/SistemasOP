@@ -18,14 +18,14 @@ case $choose in
 
   1 )
     clear
-    sh oneliner.sh ;;
+    sh listFilesLike.sh ;;
   
   2 )
     clear
     sh datetimectl.sh ;;
   3 ) 
     clear
-    sh desire.sh ;;
+    sh isPrimeInSeq.sh ;;
   4 )
     clear
     echo "Gracias por usar el programa. Vuelva pronto"
